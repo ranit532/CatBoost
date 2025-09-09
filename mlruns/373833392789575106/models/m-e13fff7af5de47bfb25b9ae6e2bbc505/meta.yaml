@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/2185206/CatBoost/mlruns/373833392789575106/models/m-e13fff7af5de47bfb25b9ae6e2bbc505/artifacts
+creation_timestamp: 1757433702974
+experiment_id: '373833392789575106'
+last_updated_timestamp: 1757433724782
+model_id: m-e13fff7af5de47bfb25b9ae6e2bbc505
+model_type: null
+name: catboost_model
+source_run_id: 31eaecad7dc64f91a5d1ae1cb5c59546
+status: 2
+status_message: null

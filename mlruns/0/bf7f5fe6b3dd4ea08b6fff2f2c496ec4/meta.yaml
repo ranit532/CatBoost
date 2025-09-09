@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/2185206/CatBoost/mlruns/0/bf7f5fe6b3dd4ea08b6fff2f2c496ec4/artifacts
+end_time: 1757433436868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf7f5fe6b3dd4ea08b6fff2f2c496ec4
+run_name: bouncy-fawn-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757433408282
+status: 3
+tags: []
+user_id: '2185206'

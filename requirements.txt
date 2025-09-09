@@ -1,0 +1,10 @@
+catboost
+mlflow
+scikit-learn
+pandas
+numpy
+fastapi
+uvicorn[standard]
+matplotlib
+seaborn
+requests

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/2185206/CatBoost/mlruns/373833392789575106/31eaecad7dc64f91a5d1ae1cb5c59546/artifacts
+end_time: 1757433724876
+entry_point_name: ''
+experiment_id: '373833392789575106'
+lifecycle_stage: active
+run_id: 31eaecad7dc64f91a5d1ae1cb5c59546
+run_name: bright-doe-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757433700763
+status: 3
+tags: []
+user_id: '2185206'
